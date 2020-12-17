@@ -5,5 +5,4 @@ subtitle: later
 ---
 
 We are d n s
-### My story
 
